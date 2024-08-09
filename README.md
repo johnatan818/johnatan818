@@ -1,4 +1,4 @@
-## Hi there 👋
+Olá! eu sou eu, como dizia Albert Einstein " Não tenho nenhum talento especial. Apenas sou apaixonadamente curioso". kkkk mentira, eu não sou curioso.
 
 <!--
 **johnatan818/johnatan818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
